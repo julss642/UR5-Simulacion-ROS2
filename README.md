@@ -29,7 +29,11 @@ La secuencia incluye:
 
 ### Programa 3 – Pick and Place
 
-Programa correspondiente a la rutina de Pick and Place, desarrollado como parte de la actividad.
+Programa correspondiente a la rutina de Pick and Place.
+
+La rutina implementa dos puntos de recogida y sus respectivas trayectorias de transporte y entrega, incluyendo puntos intermedios sobre las posiciones de recogida y destino, así como la activación y desactivación del efector mediante salidas digitales.
+
+Al finalizar las rutinas, el programa espera la señal de una entrada digital para continuar con la ejecución.
 
 ## Herramientas utilizadas
 
